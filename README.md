@@ -12,7 +12,7 @@ planned features:
 - custom level up sound
 - custom login screen
 - custom login sound
-- auto heal:
+  auto heal:
         - zhonyas
         - health potions
         - spells
@@ -21,7 +21,7 @@ planned features:
 - auto last-hit
 - auto buy
 - spell range (enemies as well as allies)
-- auto spell:
+  auto spell:
         - barrier
         - cleanse
         - exhaust
@@ -32,10 +32,10 @@ planned features:
         - smite
         - teleport
 
-- xp calculator:
+  xp calculator:
         - calculating needed minions, towers, enemys, assists for leveling up
 
-- money calculator:
+  money calculator:
         - pops up a message, if wanted item can be bought and/or when
 
 - mana calculator
@@ -48,4 +48,3 @@ planned features:
 - enemy xp
 - enemy max life (calculating all healing items and spells)
 - enemy ss warning
-aa
