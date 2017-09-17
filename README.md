@@ -2,9 +2,16 @@
 Cheat for League of Legends, currently working on it. C++
 It's based on my memory-reading example.
 
+// NO UI:
+// console application
+// could be nice for streamers ;)
+
 planned features:
 
 - auto level up
+- custom level up sound
+- custom login screen
+- custom login sound
 - auto heal:
         - zhonyas
         - health potions
