@@ -48,4 +48,4 @@ planned features:
 - enemy xp
 - enemy max life (calculating all healing items and spells)
 - enemy ss warning
-
+aa
