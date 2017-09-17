@@ -9,6 +9,7 @@ planned features:
 - custom level up sound
 - custom login screen
 - custom login sound
+- custom skins
   
 - auto level up
 - auto heal:
@@ -37,7 +38,8 @@ planned features:
         - pops up a message, if wanted item can be bought and/or when
 - mana calculator
 - life calculator
-- way-time calculator        
+- way-time calculator  
+- infinite zoom
 - enemy walking prediction
 - enemy spell prediction
 - enemy spelltimer
